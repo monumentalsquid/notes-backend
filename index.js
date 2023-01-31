@@ -19,7 +19,7 @@ app.use(requestLogger);
 let notes = [
   {
     id: 1,
-    content: "HTML is easy",
+    content: "HTML is easy as hell",
     important: true,
   },
   {
