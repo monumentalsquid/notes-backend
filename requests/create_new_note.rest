@@ -1,7 +1,7 @@
-POST http://localhost:3001/api/notes HTTP/1.1
+POST http://localhost:3001/api/notes
 Content-Type: application/json
 
 {
-  "content": "VS REST is shitty for backend testing",
+  "content": "this is the last try",
   "important": true
 }
